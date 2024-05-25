@@ -1,4 +1,4 @@
-# *UN*official Wiki for Radar Omega
+# *UN*official Wiki for RadarOmega
 
 __NOT__ affiliated with [SDS Weather](https://sdsweather.com/)/[Radar Omega](https://www.radaromega.com/)
 
